@@ -1,0 +1,18 @@
+{
+	"name": "Download Project Meta",
+	"type": "app",
+	"categories": ["export", "images", "videos", "pointclouds", "volumes"],
+	"description": "Download project meta of Supervisely project (any modality).",
+	"docker_image": "supervisely/import-export:6.73.390",
+	"instance_version": "6.13.1",
+	"main_script": "src/main.py",
+	"task_location": "workspace_tasks",
+	"headless": true,
+	"icon_cover": true,
+	"icon": "",
+	"icon_background": "#FFFFFF",
+	"context_menu": {
+		"target": ["volumes_project", "images_project", "videos_project", "point_cloud_episodes_project"]
+	},
+	"poster": ""
+}
