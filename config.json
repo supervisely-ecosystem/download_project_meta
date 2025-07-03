@@ -9,7 +9,7 @@
 	"task_location": "workspace_tasks",
 	"headless": true,
 	"icon_cover": true,
-	"icon": "https://github.com/supervisely-ecosystem/download_project_meta/releases/download/0.0.1/icon_resized.png",
+	"icon": "https://github.com/supervisely-ecosystem/download_project_meta/releases/download/0.0.1/json-icon-resized.png",
 	"icon_background": "#FFFFFF",
 	"context_menu": {
 		"target": ["volumes_project", "images_project", "videos_project", "point_cloud_episodes_project", "point_cloud_project"],
