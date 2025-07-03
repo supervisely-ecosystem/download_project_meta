@@ -31,4 +31,4 @@ sly.logger.info(f"Project meta saved to {save_path}")
 file_info = sly.output.set_download(save_path)
 if file_info:
     # Show the remote path in logs.
-    sly.logger.info(f"Project meta uploaded to Files: {file_info.remote_path}")
+    sly.logger.info(f"Project meta uploaded to Files: {file_info.path}")

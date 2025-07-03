@@ -12,7 +12,8 @@
 	"icon": "",
 	"icon_background": "#FFFFFF",
 	"context_menu": {
-		"target": ["volumes_project", "images_project", "videos_project", "point_cloud_episodes_project"]
+		"target": ["volumes_project", "images_project", "videos_project", "point_cloud_episodes_project"],
+		"context_root": "Download as"
 	},
 	"poster": ""
 }
