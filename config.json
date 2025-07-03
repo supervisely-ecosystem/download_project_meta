@@ -15,5 +15,5 @@
 		"target": ["volumes_project", "images_project", "videos_project", "point_cloud_episodes_project", "point_cloud_project"],
 		"context_root": "Download as"
 	},
-	"poster": ""
+	"poster": "https://github.com/supervisely-ecosystem/download_project_meta/releases/download/0.0.1/poster.png"
 }

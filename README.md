@@ -1,6 +1,6 @@
 <div align="center" markdown>
 
-<img src="">
+<img src="https://github.com/supervisely-ecosystem/download_project_meta/releases/download/0.0.1/poster.png">
 
 # Download Project Meta
 
