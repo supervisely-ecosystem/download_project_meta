@@ -2,7 +2,7 @@
 	"name": "Download Project Meta",
 	"type": "app",
 	"categories": ["export", "images", "videos", "pointclouds", "volumes"],
-	"description": "Download project meta of Supervisely project (any modality).",
+	"description": "Download project meta of Supervisely project for any modality.",
 	"docker_image": "supervisely/import-export:6.73.390",
 	"instance_version": "6.13.1",
 	"main_script": "src/main.py",
