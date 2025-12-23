@@ -1,9 +1,15 @@
 {
   "name": "Download Project Meta",
   "type": "app",
-  "categories": ["export", "images", "videos", "pointclouds", "volumes"],
+  "categories": [
+    "export",
+    "images",
+    "videos",
+    "pointclouds",
+    "volumes"
+  ],
   "description": "Download project meta of Supervisely project for any modality.",
-  "docker_image": "supervisely/import-export:6.73.484",
+  "docker_image": "supervisely/import-export:6.73.486",
   "instance_version": "6.15.35",
   "main_script": "src/main.py",
   "task_location": "workspace_tasks",
@@ -12,7 +18,13 @@
   "icon": "https://github.com/supervisely-ecosystem/download_project_meta/releases/download/0.0.1/json-icon-resized.png",
   "icon_background": "#FFFFFF",
   "context_menu": {
-		"target": ["volumes_project", "images_project", "videos_project", "point_cloud_episodes_project", "point_cloud_project"],
+    "target": [
+      "volumes_project",
+      "images_project",
+      "videos_project",
+      "point_cloud_episodes_project",
+      "point_cloud_project"
+    ],
     "context_root": "Download as"
   },
   "poster": "https://github.com/supervisely-ecosystem/download_project_meta/releases/download/0.0.1/poster.png"
