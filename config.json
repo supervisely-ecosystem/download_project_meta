@@ -9,7 +9,7 @@
     "volumes"
   ],
   "description": "Download project meta of Supervisely project for any modality.",
-  "docker_image": "supervisely/import-export:6.73.486",
+  "docker_image": "supervisely/import-export:6.73.564",
   "instance_version": "6.15.35",
   "main_script": "src/main.py",
   "task_location": "workspace_tasks",
